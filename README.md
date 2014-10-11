@@ -1,4 +1,5 @@
-datasciencecoursera
+﻿datasciencecoursera
 ===================
 
-The Data Scientist’s Toolbox - Course Project
+The Data Scientist’s Toolbox - Course Project - Desktop version
+
